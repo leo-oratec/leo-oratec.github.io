@@ -1,2 +1,2 @@
 # leo-oratec.github.io
-这里有一些 TurboWarp (Scratch) 项目，现在都还是半成品.
+暂时只有一些~~处于假死状态的~~不定期更新的 TurboWarp (Scratch) 项目。
