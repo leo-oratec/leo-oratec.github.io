@@ -1,0 +1,31 @@
+body {
+    width: 75%;
+    margin: 0 auto;
+    background-color: #fafafa;
+    padding: 1vw 2vw 2vw 2vw;
+
+    border: 4px solid #cacaca;
+    border-radius: 10px;
+    border-bottom-right-radius: 30px;
+
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5vw;
+}
+
+p {
+  line-height: 0;
+  color: #333333;
+}
+
+h1 {
+  line-height: 1;
+  color: #333333;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2vw;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    margin: 3% auto;
+}
