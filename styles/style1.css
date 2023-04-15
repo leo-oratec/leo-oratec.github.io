@@ -34,7 +34,7 @@ img {
 }
 
 button {
-  transition-duration: 0.12s;/*动效速度*/
+  transition-duration: 0.1s;/*动效速度*/
   cursor: pointer;/*鼠标响应*/
   background-color: white;
   color: #333333;
