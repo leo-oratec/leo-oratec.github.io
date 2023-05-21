@@ -11,14 +11,14 @@ body {
   font-size: 2vw;/*文字大小*/
 }
 
-/*段落样式*/
+/*段落*/
 p {
   font-size: 20px;
   line-height: 0.5;
   color: #333333;
 }
 
-/*标题样式*/
+/*标题*/
 h1 {
   line-height: 1;
   color: #333333;
@@ -26,38 +26,33 @@ h1 {
   font-size: 28px;
 }
 
-/*图片样式*/
+/*图片*/
 img {
   display: block;
   max-width: 100%;
   margin: 3% auto;
 }
 
-/*默认按钮样式*/
-button {
-  transition-duration: 0.1s;/*动效速度*/
+/*默认按钮链接*/
+a {
+  transition-duration: 0.05s;/*动效时间*/
   cursor: pointer;/*鼠标响应*/
   background-color: white;
   color: #333333;
-  width: 100px;
-  padding: 12px 0;
+  width: 8vw;
+  padding: 1vw 1vw;
   text-align: center;
   font-size: 20px;
-  white-space: nowrap;/*取消文字换行*/
-  display: inline-block;/*取消整体换行*/
+  white-space: nowrap;
+  display: inline-block;
   border: 0.2vw solid #d5d5d5;
   border-radius: 0.5vw;
   border-bottom-right-radius: 1.5vw;
 }
+a:hover {background-color: #d5d5d5; color: #333333;}
 
-/*「其他」部分按钮样式*/
-button.long {
-  width: 200px;
-  padding: 12px 0;
-}
-
-/*悬浮的按钮样式*/
-button:hover {
-  background-color: #d5d5d5;
-  color: #333333;
+/*长条按钮链接*/
+a.long {
+  width: 12vw;
+  padding: 1vw 1vw;
 }
