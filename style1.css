@@ -33,13 +33,13 @@ img {
   margin: 3% auto;
 }
 
-/*默认按钮链接*/
-a {
+/*默认按钮*/
+button {
   transition-duration: 0.05s;/*动效时间*/
   cursor: pointer;/*鼠标响应*/
   background-color: white;
   color: #333333;
-  width: 8vw;
+  width: 10vw;
   padding: 1vw 1vw;
   text-align: center;
   font-size: 20px;
@@ -49,10 +49,10 @@ a {
   border-radius: 0.5vw;
   border-bottom-right-radius: 1.5vw;
 }
-a:hover {background-color: #d5d5d5; color: #333333;}
+button:hover {background-color: #d5d5d5; color: #333333;}
 
-/*长条按钮链接*/
-a.long {
-  width: 12vw;
+/*长条按钮*/
+button.long {
+  width: 15vw;
   padding: 1vw 1vw;
 }
