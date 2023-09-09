@@ -14,7 +14,7 @@ body {
 /*段落*/
 p {
   font-size: 20px;
-  line-height: 0.5;
+  line-height: 1;
   color: #333333;
 }
 
