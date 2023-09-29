@@ -1,6 +1,6 @@
 /*主体*/
 body {
-  width: 75%;/*主体大小*/
+  width: 75vw;/*主体大小*/
   margin: 0 auto;/*位置*/
   background-color: white;/*背景颜色*/
   padding: 1vw 2vw 2vw 2vw;/*文字边缘*/
@@ -13,17 +13,17 @@ body {
 
 /*段落*/
 p {
-  font-size: 20px;
-  line-height: 1;
+  font-size: 1.5vw;
+  line-height: 1.5;
   color: #333333;
 }
 
 /*标题*/
 h1 {
-  line-height: 1;
+  line-height: 2vw;
   color: #333333;
   font-family: 'Open Sans', sans-serif;
-  font-size: 28px;
+  font-size: 2.5vw;
 }
 
 /*图片*/
@@ -35,14 +35,14 @@ img {
 
 /*默认按钮*/
 button {
-  transition-duration: 0.05s;/*动效时间*/
+  transition-duration: 0.1s;/*动效时间*/
   cursor: pointer;/*鼠标响应*/
   background-color: white;
   color: #333333;
-  width: 150px;
-  padding: 15px 1vw;
+  width: 12vw;
+  padding: 1.2vw 1vw;
   text-align: center;
-  font-size: 20px;
+  font-size: 1.5vw;
   white-space: nowrap;
   display: inline-block;
   border: 0.2vw solid #d5d5d5;
@@ -52,8 +52,8 @@ button {
 
 /*长条按钮*/
 button.long {
-  width: 220px;
-  padding: 15px 1vw;
+  width: 15vw;
+  padding: 1.5vw 1vw;
 }
 
 /*鼠标悬浮的按钮*/
