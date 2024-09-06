@@ -6,7 +6,7 @@
    viewBox="0,0,433.43375,103.74418"
    id="svg76"
    sodipodi:docname="oratec.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -21,13 +21,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="2.7593606"
-     inkscape:cx="216.89807"
-     inkscape:cy="52.004802"
+     inkscape:zoom="1.4227953"
+     inkscape:cx="202.76986"
+     inkscape:cy="59.03871"
      inkscape:window-width="1366"
-     inkscape:window-height="715"
+     inkscape:window-height="702"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg76" />
   <defs
@@ -190,77 +190,88 @@
          stroke="#4d6780"
          stroke-width="6"
          stroke-linecap="round"
-         id="path50" />
+         id="path50"
+         style="stroke:#ebebeb;stroke-opacity:1" />
       <path
          d="m 190.62071,209.14616 h -13.86317 l -7.34748,-7.34748 v -14.83359 l 8.66449,-8.66448 h 11.99164 v 12.82343 l -9.70423,5.82254"
          fill="none"
          stroke="#4d6780"
          stroke-width="6"
          stroke-linecap="round"
-         id="path52" />
+         id="path52"
+         style="stroke:#ebebeb;stroke-opacity:1" />
       <path
          d="M 204.34144,209.14616 V 187.5196 l 9.56559,-9.56559 h 12.06096 v 21.76519 l -9.28832,9.28832 z"
          fill="none"
          stroke="#4d6780"
          stroke-width="6"
          stroke-linecap="round"
-         id="path54" />
+         id="path54"
+         style="stroke:#ebebeb;stroke-opacity:1" />
       <path
          d="M 247.50956,208.95825 H 235.58723"
          fill="none"
          stroke="#4d6780"
          stroke-width="6"
          stroke-linecap="round"
-         id="path56" />
+         id="path56"
+         style="stroke:#ebebeb;stroke-opacity:1" />
       <path
          d="m 261.94969,209.35035 v -31.4141 l 9.56559,-9.56559 h 12.06096 v 31.55273 l -9.28832,9.28832 z"
          fill="none"
          stroke="#4d6780"
          stroke-width="6"
          stroke-linecap="round"
-         id="path58" />
+         id="path58"
+         style="stroke:#ebebeb;stroke-opacity:1" />
       <path
          d="m 298.70772,209.40976 v -30.77624 h 21.07203"
          fill="none"
          stroke="#4d6780"
          stroke-width="6"
          stroke-linecap="round"
-         id="path60" />
+         id="path60"
+         style="stroke:#ebebeb;stroke-opacity:1" />
       <path
          d="m 341.96986,209.13252 -9.14969,-9.14969 0.27727,-21.62656 h 19.96297 v 30.77624 z"
          fill="none"
          stroke="#4d6780"
          stroke-width="6"
          stroke-linecap="round"
-         id="path62" />
+         id="path62"
+         style="stroke:#ebebeb;stroke-opacity:1" />
       <path
          d="M 386.93795,178.35626 H 366.89471"
          fill="none"
          stroke="#4d6780"
          stroke-width="6"
          stroke-linecap="round"
-         id="path64" />
+         id="path64"
+         style="stroke:#ebebeb;stroke-opacity:1" />
       <path
          d="m 383.57064,209.40976 -8.3179,-8.3179 V 168.0975"
          fill="none"
          stroke="#4d6780"
          stroke-width="6"
          stroke-linecap="round"
-         id="path66" />
+         id="path66"
+         style="stroke:#ebebeb;stroke-opacity:1" />
       <path
          d="m 418.35802,209.14616 h -13.86317 l -7.34748,-7.34748 v -14.83359 l 8.66449,-8.66448 h 11.99164 v 12.82343 l -9.70423,5.82254"
          fill="none"
          stroke="#4d6780"
          stroke-width="6"
          stroke-linecap="round"
-         id="path68" />
+         id="path68"
+         style="stroke:#ebebeb;stroke-opacity:1" />
       <path
          d="m 453.21368,209.42316 h -21.01529 v -21.77487 l 8.86186,-8.86186 h 12.40662"
          fill="none"
          stroke="#4d6780"
          stroke-width="6"
          stroke-linecap="round"
-         id="path70" />
+         id="path70"
+         style="stroke:#ebebeb;stroke-opacity:1" />
     </g>
   </g>
 </svg>

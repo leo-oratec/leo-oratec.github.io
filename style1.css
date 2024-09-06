@@ -2,28 +2,27 @@
 body {
   width: 75vw;/*主体大小*/
   margin: 0 auto;/*位置*/
-  background-color: white;/*背景颜色*/
-  padding: 1vw 2vw 2vw 2vw;/*文字边缘*/
-  border: 0.4vw solid #d5d5d5;/*边框线条*/
-  border-radius: 1.5vw;/*边框圆角*/
-  border-bottom-right-radius: 6vw;/*边框右下方圆角*/
+  background-color: #333333;/*背景颜色*/
+  padding: 20px;/*文字边缘*/
+  border: 4px solid #d5d5d5;/*边框线条*/
+  border-radius: 32px;/*边框圆角*/
   font-family: 'Open Sans', sans-serif;/*字体*/
   font-size: 2vw;/*文字大小*/
 }
 
 /*段落*/
 p {
-  font-size: 1.5vw;
+  font-size: 20px;
   line-height: 1.5;
-  color: #333333;
+  color: #ebebeb;
 }
 
 /*标题*/
 h1 {
-  line-height: 2vw;
-  color: #333333;
+  line-height: 48px;
+  color: #ebebeb;
   font-family: 'Open Sans', sans-serif;
-  font-size: 2.5vw;
+  font-size: 36px;
 }
 
 /*图片*/
@@ -37,24 +36,22 @@ img {
 button {
   transition-duration: 0.1s;/*动效时间*/
   cursor: pointer;/*鼠标响应*/
-  background-color: white;
-  color: #333333;
-  width: 12vw;
-  padding: 1.2vw 1vw;
+  background-color: #333333;
+  color: #ebebeb;
+  width: 200px;
+  padding: 16px;
   text-align: center;
-  font-size: 1.5vw;
+  font-size: 20px;
   white-space: nowrap;
   display: inline-block;
-  border: 0.2vw solid #d5d5d5;
-  border-radius: 0.5vw;
-  border-bottom-right-radius: 1.5vw;
+  border: 2px solid #ebebeb;
+  border-radius: 16px;
+  margin:4px 4px;
 }
 
-/*长条按钮*/
-button.long {
-  width: 15vw;
-  padding: 1.5vw 1vw;
+button.short {
+  width: 150px;
 }
 
 /*鼠标悬浮的按钮*/
-button:hover {background-color: #d5d5d5; color: #333333;}
+button:hover {background-color: #666666; color: #ebebeb;}
