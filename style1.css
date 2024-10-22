@@ -2,9 +2,9 @@
 body {
   width: 75vw;/*主体大小*/
   margin: 0 auto;/*位置*/
-  background-color: #333333;/*背景颜色*/
+  background-color: #fafafa;/*背景颜色*/
   padding: 20px;/*文字边缘*/
-  border: 4px solid #d5d5d5;/*边框线条*/
+  border: 4px solid #888888;/*边框线条*/
   border-radius: 32px;/*边框圆角*/
   font-family: 'Open Sans', sans-serif;/*字体*/
   font-size: 20px;/*文字大小*/
@@ -14,19 +14,24 @@ body {
 p {
   font-size: 20px;
   line-height: 1.5;
-  color: #ebebeb;
+  color: #333333;
 }
 
 /*标题*/
 h1 {
   line-height: 48px;
-  color: #ebebeb;
+  color: #333333;
   font-family: 'Open Sans', sans-serif;
-  font-size: 36px;
+  font-size: 32px;
 }
 
 /*图片*/
 img {
+  display: block;
+  max-width: 100%;
+  margin: 3% auto;
+}
+svg {
   display: block;
   max-width: 100%;
   margin: 3% auto;
@@ -36,15 +41,15 @@ img {
 button {
   transition-duration: 0.1s;/*动效时间*/
   cursor: pointer;/*鼠标响应*/
-  background-color: #333333;
-  color: #ebebeb;
+  background-color: #fafafa;
+  color: #333333;
   width: 200px;
   padding: 16px;
   text-align: center;
   font-size: 20px;
   white-space: nowrap;
   display: inline-block;
-  border: 2px solid #ebebeb;
+  border: 2px solid #888888;
   border-radius: 16px;
   margin:4px 4px;
 }
@@ -54,4 +59,4 @@ button.short {
 }
 
 /*鼠标悬浮的按钮*/
-button:hover {background-color: #666666; color: #ebebeb;}
+button:hover {background-color: #eaeaea; color: #333333;}
